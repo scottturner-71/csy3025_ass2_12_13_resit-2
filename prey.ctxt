@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=prey()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=direction
+comment2.target=void\ setDirection(int)
+comment3.params=
+comment3.target=void\ turnLeft()
+comment4.params=
+comment4.target=void\ turnRight()
+comment5.params=howMany
+comment5.target=void\ forward(int)
+comment6.params=howMany
+comment6.target=void\ backward(int)
+comment7.params=
+comment7.target=void\ bwd()
+comment8.params=
+comment8.target=void\ fwd()
+comment9.params=dx\ dy
+comment9.target=void\ newMove(int,\ int)
+numComments=10
